@@ -12,7 +12,7 @@ Airtable makes a Node library, but they don't tell me how to wire it in easily. 
     -H "Authorization: Bearer YOUR_API_KEY"
               |
               V
-     https://api.airtable.com/v0/YOUR_BASE_ID/Powers?maxRecords=3&view=Grid%20view&api_key=YOUR_API_KEY}`;
+     https://api.airtable.com/v0/YOUR_BASE_ID/Powers?maxRecords=3&view=Grid%20view&api_key=YOUR_API_KEY
 
 (Found this trick in the comments of https://css-tricks.com/use-airtable-front-end-developer/.)
 
