@@ -2,7 +2,7 @@
   "name": "swade_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chip-l.github.io/swade_react",
+  "homepage": "http://chip-l.github.io/SWADE_React",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
