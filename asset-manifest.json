@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/swade_react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/swade_react/static/js/main.677da151.chunk.js",
+    "main.js.map": "/swade_react/static/js/main.677da151.chunk.js.map",
+    "runtime-main.js": "/swade_react/static/js/runtime-main.b29349b3.js",
+    "runtime-main.js.map": "/swade_react/static/js/runtime-main.b29349b3.js.map",
+    "static/js/2.b67131c6.chunk.js": "/swade_react/static/js/2.b67131c6.chunk.js",
+    "static/js/2.b67131c6.chunk.js.map": "/swade_react/static/js/2.b67131c6.chunk.js.map",
+    "index.html": "/swade_react/index.html",
+    "precache-manifest.4a850ce95f00976cf456f8c6b4393e04.js": "/swade_react/precache-manifest.4a850ce95f00976cf456f8c6b4393e04.js",
+    "service-worker.js": "/swade_react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/swade_react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b67131c6.chunk.js.LICENSE.txt": "/swade_react/static/js/2.b67131c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/swade_react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b29349b3.js",
+    "static/js/2.b67131c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.677da151.chunk.js"
+  ]
+}
